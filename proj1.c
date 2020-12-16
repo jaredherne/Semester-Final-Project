@@ -1,11 +1,16 @@
+/*
+Program Name: Semester Project
+Author Name: Jared Herne
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #include "proj1.h"
+
 
 char *description_source[]={"iTunes", "Skype", "Microsoft Word", "Microsoft Excel", "Microsoft Outlook", "Remote Desktop", "Instagram", "Zoom", "Facebook", "Canvas", "Microsoft Visual Studio", "Twitter"};
 int mem[7]={7000,3000,9000,2000,1400,2300,4100};
+
 
 //Prints the main menu choices
 void print_main_menu()
