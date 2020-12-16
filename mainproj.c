@@ -23,7 +23,7 @@ int main()
 	int list_size;
 	char buffer[100];
 	struct process *listptr, *tmpptr;
-	unsigned id_to_be_gone,id;
+	unsigned id_to_be_gone, id;
 
 	printf(">>>>> Enter a value > 0:\n");
 	gets(buffer);
