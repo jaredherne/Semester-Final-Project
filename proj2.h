@@ -1,8 +1,13 @@
+/*
+Program Name: Semester Project
+Author Name: Jared Herne
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #include "proj1.h"
+
 
 //Function declarations
 void space_print(int num);
