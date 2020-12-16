@@ -3,17 +3,6 @@
 #include <string.h>
 
 
-
-/*  **************************************************************
-
-
-/* *************************************************
-   ****************************************************
-     
-	          for processes
-
-**************************************************
-****************************************   */
 #ifndef DONE
 
 struct process {
@@ -32,6 +21,7 @@ struct process {
 void generate_random_process(struct process *P);
 void print_main_menu();
 
+//These funnctions are in an external library named proj2017.lib
 struct process *resort(struct process *P);
 struct process *sortByDate(struct process *P);
 
