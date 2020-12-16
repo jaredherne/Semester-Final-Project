@@ -9,6 +9,6 @@ Here is a breakdown of what each of the files contain:
 Most of the functions of the project can be found in proj2.c which is basically completely written by me.
 proj1.c contains the random struct propogation and main menu.
 We were also given an external library proj2017.lib to link so we couldn't look at the code.
-Proj1.h contains the struct we use throughout the project.
-Proj2.h just contains function declations.
+proj1.h contains the struct we use throughout the project.
+proj2.h just contains function declations.
 Finally, mainproj contains the main and the switch case for the main menu.
